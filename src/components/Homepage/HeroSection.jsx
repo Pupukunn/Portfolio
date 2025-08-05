@@ -71,7 +71,7 @@ const HeroSection = () => {
           <div className="">
             <img
               className="lg:block hidden"
-              src="./public/hacker.png"
+              src="/hacker.png"
               alt=""
             />
           </div>
