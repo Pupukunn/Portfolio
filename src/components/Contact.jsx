@@ -10,7 +10,7 @@ const Contact = () => {
   return (
     <div className="min-h-screen bg-[#1C1C22] text-white flex flex-col">
       <NavigationBar />
-      <div className="flex flex-col max-w-[1500px] w-full mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="flex flex-col max-w-[1500px] w-full mx-auto px-4 sm:px-6 lg:px-8  mb-8 sm:mb-12 ">
         {/* Heading */}
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-green-400 text-center my-8 sm:my-12">
           Get in Touch

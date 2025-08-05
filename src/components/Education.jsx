@@ -7,7 +7,7 @@ const Education = () => {
       <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-green-400 text-center mb-12">
         My Educational Journey
       </h1>
-      <div className="relative w-full max-w-4xl">
+      <div className="relative w-full max-w-4xl  mb-8 sm:mb-12 ">
         {/* Vertical Line/Path */}
         <div className="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-gradient-to-b from-green-400 to-gray-600 dotted-line"></div>
 
