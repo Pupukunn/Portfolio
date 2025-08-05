@@ -11,7 +11,7 @@ const Certificates = () => {
         {/* Certificate 1 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/1.png"
+            src="./public/1.png"
             alt="Thailand Open ROS and Smart Robot Competition 2025"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -21,7 +21,7 @@ const Certificates = () => {
         {/* Certificate 2 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/2.png"
+            src="./public/2.png"
             alt="Thailand New Inventors Award 2025"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -31,7 +31,7 @@ const Certificates = () => {
         {/* Certificate 3 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/3.png"
+            src="./public/3.png"
             alt="NSTD Micro-Mouse Contest 2025"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -41,7 +41,7 @@ const Certificates = () => {
         {/* Certificate 4 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/4.png"
+            src="./public/4.png"
             alt="Thailand Open 2024"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -51,7 +51,7 @@ const Certificates = () => {
         {/* Certificate 5 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/5.png"
+            src="./public/5.png"
             alt="Arduino Education Day RMRC 2024"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -62,7 +62,7 @@ const Certificates = () => {
         {/* Certificate 6 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/6.png"
+            src="./public/6.png"
             alt="Env Mission 4"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -72,7 +72,7 @@ const Certificates = () => {
         {/* Certificate 7 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/7.png"
+            src="./public/7.png"
             alt="46 ICT 2566"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -82,7 +82,7 @@ const Certificates = () => {
         {/* Certificate 8 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/8.png"
+            src="./public/8.png"
             alt="Tracking Robot Contest 2567"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -92,7 +92,7 @@ const Certificates = () => {
         {/* Certificate 9 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/9.png"
+            src="./public/9.png"
             alt="UBON Robot Games 2024"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -102,7 +102,7 @@ const Certificates = () => {
         {/* Certificate 10 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/10.png"
+            src="./public/10.png"
             alt="46 ICT 2567"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -113,7 +113,7 @@ const Certificates = () => {
         {/* Certificate 11 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/11.png"
+            src="./public/11.png"
             alt="72"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
@@ -124,7 +124,7 @@ const Certificates = () => {
         {/* Certificate 12 */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex flex-col justify-between items-center">
           <img
-            src="./src/assets/12.png"
+            src="./public/12.png"
             alt="71"
             className="w-full h-auto object-cover rounded-md mb-2"
           />
