@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: rock;
+    src: url(../src/assets/font/RocknRollOne-Regular.ttf);
+}
+
+@import 'tailwindcss';
+
+
+@theme {
+    
+    --breakpoint-xs: 30rem;
+    --font-rock: rock, "san-serif";
+    --color-second: #00E187;
+}
+html{
+    font-family: rock;
+}
